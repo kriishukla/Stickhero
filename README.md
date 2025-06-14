@@ -1,5 +1,8 @@
 # Stick Hero Game - Project Documentation
 
+## Game Link
+https://stick-hero-game.vercel.app/
+
 ## Project Overview
 
 Developed an engaging **2D game** inspired by **Stick Hero** using **JavaFX** and **Object-Oriented Programming (OOP)** principles. The game challenges players to control a character (stick-hero) navigating across platforms by stretching a stick to bridge gaps. Key features include dynamic game mechanics, scoring systems, power-ups (cherries), and an immersive experience with graphics, sound effects, and animations.
